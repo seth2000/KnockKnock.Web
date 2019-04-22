@@ -31,6 +31,9 @@ Have a lot of fun of learning and coding.
 
    Copy the files in the bin folder in Zip file, no need install.
 
+6. Run and test the code
+
+   nodemon app.js
 
 ## Test by Curl at Windows Environment
 
