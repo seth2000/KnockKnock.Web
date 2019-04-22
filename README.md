@@ -9,19 +9,27 @@ You can do much fast indeed.
 
 Have a lot of fun of learning and coding.
 
-## Check and Install the package as below -- I Used 
+## Check and Install the package as below (Windows 10) 
 
 1. Check node.js version and installation
+
    node --version
 
 2. Install Express
+
    npm install -g express
 
 3. Install Swagger
+
    npm install -g swagger-ui-express
 
 4. Install Nodemon
+
    npm install -g nodemon
+   
+5. Download Curl from https://curl.haxx.se/windows/dl-7.64.1_1/curl-7.64.1_1-win64-mingw.zip
+
+   Copy the files in the bin folder in Zip file, no need install.
 
 
 ## Test by Curl at Windows Environment
