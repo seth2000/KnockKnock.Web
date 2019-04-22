@@ -45,19 +45,19 @@ I copied the main idea from https://www.bbc.com/bitesize/articles/ztf9h39 and co
 
 Order form minto max, a, b, c
 
-Error: ( a + b < c)
+### Error: ( a + b < c)
 
-Equilateral  (a==b==c)
+### Equilateral  (a==b==c)
 An equilateral triangle has three equal sides and angles. It will always have angles of 60° in each corner.
 
-Isosceles   (a==b or b==c )
+### Isosceles   (a==b or b==c )
 An isosceles triangle can be drawn in many different ways. It can be drawn to have two equal sides and two equal angles or with two acute angles and one obtuse angle. It is easy to work out the missing angles of an isosceles triangle by looking for the angles that should be equal.
 
-Right-angled triangle ( a*a + b*b = c*c)
+### Right-angled triangle ( a*a + b*b = c*c)
 A right-angled triangle has one 90° angle. That 90° angle is shown as a small square where two sides of the triangle join. It is possible for a triangle to be a right-angled triangle and an isosceles triangle at the same time. In this case the angles would be 90°, 45° and 45°.
 
-Scalene  ( a < b < c)
+### Scalene  ( a < b < c)
 A scalene triangle has three different angles and none of its sides are equal in length. 
 
-Obtuse   (c*c > a*a + b*b)
+### Obtuse   (c*c > a*a + b*b)
 An obtuse triangle has three different angles, with one angle greater than 90°. 
