@@ -1,15 +1,15 @@
-Recently get LinkedIn contacted with Rachael Goodenough at Readify, she is a nice lady, we had a warm short chat on the phone. 
+Recently got LinkedIn contact Rachael Goodenough at Readify, she is a nice lady, we had a warm short chat on the phone. 
 As a part of the hiring procedure, the candidate was required to finish a code test. 
 
 I am very busy these days, so it delayed several weeks. Mmm, Prevent "I am busy" excuse, I do it today. 
 Hope it could help someone to join readify as well. 
 
-It is primary version, but it is very excise to build something from scratch, I do everything from 10:00 am to 3:00pm, not too bad.
+It is primary version, but it is always exciting to build something from scratch, I do everything from 10:00 am to 3:00pm, not too bad.
 You can do much fast indeed.
 
 Have a lot of fun of learning and coding.
 
-** Check and Install the package as below
+## Check and Install the package as below -- I Used 
 
 1. Check node.js version and installation
    node --version
@@ -24,14 +24,16 @@ Have a lot of fun of learning and coding.
    npm install -g nodemon
 
 
-** Test by Curl at Windows Environment
+## Test by Curl at Windows Environment
 
 1. curl -X GET -H "Content-type:application/json" http://127.0.0.1:3000/api/Fibonacci?n=5
 2. curl -X GET -H "Content-type:application/json" http://127.0.0.1:3000/api/ReverseWords?sentence=This%20is%20a%20sentence!%20121%20%2411
 3. curl -X GET -H "Content-type:application/json" http://127.0.0.1:3000/api/Token
-4. curl -X GET -H "Content-type:application/json" http://127.0.0.1:3000/api/TriangleType?a=3&b=4&c=5
+4. curl -X GET -H "Content-type:application/json" "http://127.0.0.1:3000/api/TriangleType?a=3&b=4&c=5"  
+        // the quote with URL is needed in Windows cmd, or the last Query string will NOT be considered as part of URL 
 
-** Triangle Types:
+## Triangle Types:
+I copied the main idea from https://www.bbc.com/bitesize/articles/ztf9h39 and converted it to math lauguage.
 
 Order form minto max, a, b, c
 
